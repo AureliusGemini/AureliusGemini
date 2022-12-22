@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning "Python" via KodLand
 - 💞️ I’m looking to collaborate on [Nothing Yet]
 - 📫 How to reach me "aureliusgemini@gmail.com"
-- ▶  My YouTUbe Channel: https://www.youtube.com/channel/UC4NqCAyAf0s-gxzOVZBnRng 
+- ▶  My YouTube Channel: https://www.youtube.com/channel/UC4NqCAyAf0s-gxzOVZBnRng 
 
 <!---
 AureliusGemini/AureliusGemini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
