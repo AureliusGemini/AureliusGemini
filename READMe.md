@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Languages and Tools:</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aureliusbinus&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en&layout=compact" alt="aureliusbinus" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aureliusgemini&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&locale=en&layout=compact" alt="aureliusgemini" />
 </p>
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -45,4 +45,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://ko-fi.com/aureliusgemini"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="AureliusGemini Ko-Fi" /></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliusbinus" alt="aureliusbinus" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aureliusgemini" alt="aureliusgemini" /></a> </p>
