@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **elvin.yamin@binus.ac.id**
 
-- ⚡ Fun fact **¯\_(ツ)_/¯**
+- ⚡ Fun fact **___**
 
-- 📝 I regularly write articles on **[https://comp-eng.binus.ac.id](https://comp-eng.binus.ac.id)**
+- 📝 BINUS articles on **[https://comp-eng.binus.ac.id](https://comp-eng.binus.ac.id)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
