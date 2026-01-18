@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aureliusgemini&abbreviated=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AureliusGemini" alt="AureliusGemini" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AureliusGemini)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/AureliusGemini" target="blank"><img src="https://img.shields.io/twitter/follow/AureliusGemini?logo=twitter&style=for-the-badge" alt="AureliusGemini" /></a> </p>
 
