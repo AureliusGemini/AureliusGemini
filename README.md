@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **IOT (ESP32), PlatformIO, QT on Desktop, **
 
-- 🤝 I'm looking for help with **https://github.com/AureliusGemini/Green.Guardian, Coreboot on Fujitsu S762/g and sunxi-linux on MOViMax P3**
+- 🤝 I'm looking for help with **Coreboot on Fujitsu S762/g and sunxi-linux on MOViMax P3**
 
 - 📫 How to reach me **elvin.yamin@binus.ac.id**
 
