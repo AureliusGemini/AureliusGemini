@@ -2,7 +2,8 @@
 
 ### Still Learning Computer Engineering 
 
-![](https://komarev.com/ghpvc/?username=aureliusgemini&abbreviated=true)
+![https://komarev.com/ghpvc/?username=aureliusgemini&abbreviated=true](https://trophy.benkou.dev/?username=AureliusGemini&theme=dark)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AureliusGemini)](https://github.com/ryo-ma/github-profile-trophy)
 
