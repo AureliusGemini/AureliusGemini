@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **elvin.yamin@binus.ac.id**
 
-- ⚡ Fun fact **___**
+- ⚡ Fun fact **i'm addiceted to Ricola Lemon**
 
 - 📝 BINUS articles on **[https://comp-eng.binus.ac.id](https://comp-eng.binus.ac.id)**
 
